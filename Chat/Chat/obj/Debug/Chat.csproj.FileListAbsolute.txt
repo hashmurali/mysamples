@@ -1,0 +1,14 @@
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\obj\Debug\Chat.MainPage.xaml.g.cs
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\obj\Debug\Chat.App.xaml.g.cs
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Chat.dll
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Chat.pdb
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\obj\Debug\Chat.dll
+c:\users\welcome\documents\visual studio 2017\Projects\Chat\Chat\Chat\obj\Debug\Chat.pdb
